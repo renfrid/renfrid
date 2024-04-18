@@ -2,18 +2,14 @@
 <h3 align="center">Hi there 🙆‍♀️, I'm Renfrid, a fullstack software developer and Data Science Enthusiast.</h3> 
 
 <h3>🧐 Some Things About Me</h3>
+
 - 🌱 I’m currently learning and practising **Data Science & Machine Learning**
 - 💬 Ask me about **Web and Mobile app development**
 - 📫 How to reach me **renfridfrancis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/renfrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renfrid" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/renfrid-william-ngolongolo-4b81a137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renfrid-william-ngolongolo-4b81a137" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/renfridwilliam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@renfridwilliam" height="30" width="40" /></a>
-
+<a href="https://twitter.com/renfrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renfrid" height="30" width="40" /></a><a href="https://www.linkedin.com/in/renfrid-william-ngolongolo-4b81a137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renfrid-william-ngolongolo-4b81a137" height="30" width="40" /></a><a href="https://www.instagram.com/renfridwilliam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@renfridwilliam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
