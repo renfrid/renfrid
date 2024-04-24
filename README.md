@@ -1,9 +1,7 @@
-<h1 align="center">Hello World 👋!</h1> 
-<h3 align="center">Hi there 🙆‍♀️, I'm Renfrid, a fullstack software developer and Data Science Enthusiast.</h3> 
+<h1 align="center">Hi 👋, I'm Renfrid</h1> 
+<h3 align="center">I'm Senior Software Developer at Sacids, a organization deal with One Health diseases surveillance.</h3> 
 
-<h3>🧐 Some Things About Me</h3>
-
-- 🌱 I’m currently learning and practising **Data Science & Machine Learning**
+- 🌱 Working on **Data Science & Machine Learning** models
 - 💬 Ask me about **Web and Mobile app development**
 - 📫 How to reach me **renfridfrancis@gmail.com**
 
