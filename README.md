@@ -2,12 +2,12 @@
 <p>I am Senior Software Developer with over 10 years of experience. I have skills in different frameworks and programming language. </p> 
 
 <h3>Proffessional Summary</h3>
-- Title: Senior Software Developer
-- Experience: 10+ years
-- Expertise
-  - Software Development
-  - Mobile app development
-  - Machine Learning/AI
+-Title: Senior Software Developer
+-Experience: 10+ years
+-Expertise
+  -Software Development
+  -Mobile app development
+  -Machine Learning/AI
 
 <h1>Skills</h1>
 
